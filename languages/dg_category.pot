@@ -1,0 +1,20 @@
+# Translation of the WordPress theme Dragonet by dragonet.
+# FIRST AUTHOR <jasper@dragonet.nl>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 	Dragonet\n"
+"Report-Msgid-Bugs-To: 	\n"
+"POT-Creation-Date: 	15-01-2011\n"
+"PO-Revision-Date: 		\n"
+"Last-Translator: 		J.Heidebrink <jasper@dragonet.nl>, 2011.\n"
+"Language-Team: 		\n"
+"MIME-Version: 			1.0\n"
+"Content-Type: 			text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: page-category.php:20
+#, php-format
+msgid "Pages: "
+msgstr ""
