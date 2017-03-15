@@ -1,2 +1,3 @@
-# wp_page_category
-Link categories to a WordPress Page type
+# WordPress Category to Page link
+This plugin allow you to link categories to a page.
+
